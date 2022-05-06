@@ -1,3 +1,5 @@
+// cases of submit feedbacks
+
 import { MailAdapter } from "../adapters/mail-adapter";
 import { FeedbacksRepository } from "../repositories/feedbacks-repository";
 
