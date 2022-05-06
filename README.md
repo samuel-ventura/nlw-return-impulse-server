@@ -33,7 +33,7 @@ $ npm install
 # Iniciar o projeto
 $ npm run dev
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+O app estará disponível no seu browser pelo endereço http://localhost:3333.
 
 Lembrando que será necessário ter o [NodeJS](https://nodejs.org/en/) e o [Prisma](https://www.prisma.io) instalados e todas as outras dependências.
 
