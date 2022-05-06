@@ -21,8 +21,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/samuel-ventura/nlw-return-impulse-web
-$ cd nlw-return-impulse-web
+$ git clone https://github.com/samuel-ventura/nlw-return-impulse-server
+$ cd nlw-return-impulse-server
 ```
 
 Para iniciá-lo, siga os passos abaixo:
